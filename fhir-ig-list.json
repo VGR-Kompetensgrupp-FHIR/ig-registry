@@ -9818,5 +9818,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "http://www.cdc.gov/nhsn/fhirportal/dqm/ig/1.0.0"
     }]
+  },
+  {
+    "name" : "VGR Transfusionmedicine Implementation Guide",
+    "category" : "Regional Base",
+    "npm-name" : "se.vgregion.fhir.transfusionmedicine",
+    "description" : "Region Västra Götaland's Transfusionmedicine Implementation Guide",
+    "authority" : "Region Västra Götaland",
+    "country" : "SE",
+    "history" : "https://fhir.vgregion.se/ig/transfusionmedicine/history.html",
+    "language" : ["en"],
+    "canonical" : "https://fhir.vgregion.se/ig/transfusionmedicine",
+    "ci-build" : "https://fhir-dev.vgregion.se/ig/transfusionmedicine",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Releases Preview",
+      "ig-version" : "0.4.0",
+      "package" : "se.vgregion.fhir.transfusionmedicine#0.4.0",
+      "fhir-version" : ["5.0.0"],
+      "url" : "https://fhir.vgregion.se/ig/transfusionmedicine/0.4.0"
+    }]
   }]
 }
