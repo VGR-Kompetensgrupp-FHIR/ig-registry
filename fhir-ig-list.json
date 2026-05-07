@@ -9818,5 +9818,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "http://www.cdc.gov/nhsn/fhirportal/dqm/ig/1.0.0"
     }]
+  },
+  {
+    "name" : "VGR Reimbursement Implementation Guide",
+    "category" : "Regional Base",
+    "npm-name" : "se.vgregion.fhir.reimbursement",
+    "description" : "Region Västra Götaland's Reimbursement Implementation Guide",
+    "authority" : "Region Västra Götaland",
+    "country" : "SE",
+    "history" : "https://fhir.vgregion.se/ig/reimbursement/history.html",
+    "language" : ["en"],
+    "canonical" : "https://fhir.vgregion.se/ig/reimbursement",
+    "ci-build" : "https://fhir-dev.vgregion.se/ig/reimbursement",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Releases Preview",
+      "ig-version" : "0.8.0",
+      "package" : "se.vgregion.fhir.reimbursement#0.8.0",
+      "fhir-version" : ["4.0.1"],
+      "url" : "https://fhir.vgregion.se/ig/reimbursement/0.8.0"
+    }]
   }]
 }
